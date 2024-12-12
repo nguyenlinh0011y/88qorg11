@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+RR88 - Link đăng ký đăng nhập RR88 chính thức tại việt nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`RR88 <https://88q.org/>`_ là một nhà cái hàng đầu, sở hữu quy mô lớn nhất trong ngành hiện nay với hàng triệu người chơi tham gia mỗi ngày. Nơi đây không chỉ được các chuyên gia đánh giá cao về chất lượng dịch vụ mà còn nổi bật nhờ sự đa dạng trong các sản phẩm giải trí.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Chúng tôi cung cấp các liên kết truy cập chính thức và độc quyền từ nhà cái RR88, đảm bảo không chuyển hướng đến bất kỳ địa chỉ nào khác.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 3141 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0891132540. 
 
-.. toctree::
+Email: info@88q.org. 
 
-   usage
-   api
+Website: https://88q.org/ 
+
+#rr88 #trangchurr88 #dangkyrr88 #dangnhaprr88 #linkrr88
